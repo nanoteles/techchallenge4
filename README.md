@@ -8,4 +8,4 @@ Também fica como desafio para o futuro utilizar a biblioteca yolo.
 
 Resultado do vídeo: https://drive.google.com/file/d/13O8qIOk_9Jwmb0WbKWjXmGU5AK3kNxMH/view?usp=sharing
 
-Link no Youtube: 
+Link no Youtube: https://youtu.be/K80FtYqq-0M
